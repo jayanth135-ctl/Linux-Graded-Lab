@@ -1,0 +1,5 @@
+Duplicate found: student1.txt
+------------------------
+Files Processed : 2
+Duplicate Files : 1
+Files Backed Up : 1

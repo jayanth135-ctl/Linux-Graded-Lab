@@ -1,0 +1,3 @@
+Server=Linux
+Port=8080
+Status=Active

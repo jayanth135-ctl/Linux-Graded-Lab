@@ -1,0 +1,9 @@
+INFO: Server Started
+INFO: User Login
+ERROR: Database Connection Failed
+INFO: File Uploaded
+ERROR: Disk Full
+INFO: Service Running
+ERROR: Network Failure
+INFO: User Logout
+ERROR: Memory Overflow

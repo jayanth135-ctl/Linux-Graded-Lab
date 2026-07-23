@@ -1,0 +1,4 @@
+ERROR: Database Connection Failed
+ERROR: Disk Full
+ERROR: Network Failure
+ERROR: Memory Overflow
